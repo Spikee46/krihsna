@@ -4,6 +4,7 @@ public class ALpha {
 	public static void main(String[] args) {
 		System.out.println("krishna");
 		System.out.println("ram");
+		System.out.println("bharat");
 	}
 	
 
